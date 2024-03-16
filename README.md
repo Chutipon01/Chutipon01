@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Chutipon01/Chutipon01/output/snake.svg" alt="Snake animation" />
-
 ###
